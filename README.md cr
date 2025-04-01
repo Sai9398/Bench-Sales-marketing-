@@ -1,0 +1,46 @@
+Marketing Bench Candidates Website
+
+This is a marketing website for bench candidates, featuring sections for Home, Hotlist, C2C Jobs, W2 Jobs, and Contact. The design uses a sleek black, grey, and white color scheme.
+
+🚀 Live Demo
+
+Check out the live website: YourWebsiteURL
+
+📂 Project Structure
+
+.
+├── index.html          # Main HTML file
+├── .github
+│   └── workflows
+│       └── deploy.yml # GitHub Actions workflow for deployment
+└── README.md          # Project documentation
+
+🛠️ Setup Instructions
+
+1. Clone the repository:
+
+git clone https://github.com/Sai9398/marketing-bench-candidates.git
+
+
+2. Navigate to the project directory:
+
+cd marketing-bench-candidates
+
+
+
+🌐 Deployment
+
+This project uses GitHub Pages for hosting. On each push to the main branch, the site automatically deploys using GitHub Actions.
+
+📝 Contributing
+
+Feel free to fork this repository and submit pull requests!
+
+📧 Contact
+
+For inquiries, please contact contact@marketingbench.com.
+
+🏷 License
+
+This project is open-source and available under the MIT License.
+
